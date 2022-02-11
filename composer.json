@@ -1,0 +1,11 @@
+{
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://composer.blued.cn"
+    }
+  ],
+  "require": {
+    "bluecity/ursdk": "0.0.3"
+  }
+}
